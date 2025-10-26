@@ -1,0 +1,55 @@
+
+--- Player Status ---
+Player Name : ABAR ALI
+Trust Level : 80
+
+--- Message History ---
+ To DANISH KAMAL : Hello HOW WRE YOU ? 
+ From NADIR LOVE : HELLO SIR  
+
+
+Allies: 
+
+Enemies: 
+
+--- Market & Diplomacy Status ---
+Food Price: 9 | Stock: 1175
+Wood Price: 14 | Stock: 1300
+Weapons Price: 24 | Stock: 1400
+Trade Agreement: None
+Trust Level: 65/100
+Smuggler Detected: No
+
+--- Resource Status ---
+Wood: 195
+Stone: 345
+Iron: 545
+Gold: 850
+Food: 1000
+Weapons: 450
+Storage Capacity: 1200
+Supply Routes: ? Secure
+Season: Normal
+			 - - - - DETAILS OF ARMY IN KINGDOM - - - -
+
+Size of Army : 1000
+general of Army : ASIM MUNIR
+Training Level  of Army : 26
+Weapon Capacity  of Army : 27
+Barack capacity  of Army : 37
+Level of Corruption  in Army : 29
+
+--- Bank Status ---
+Bank Balance:    12100
+Loan Amount:     100
+Turns to Repay:  8
+Return Date:     5
+Corruption Level:800%
+Fraud Detected:  No
+
+--- Economy Status ---
+Treasury: 11024
+Inflation Rate: 1.02
+Corruption Level: 5%
+Uncollected Taxes: 65
+Revolt Risk: 20%
